@@ -27,6 +27,8 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itsanuragkumarjha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Anurag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsanuragkumarjha&theme=merko)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
