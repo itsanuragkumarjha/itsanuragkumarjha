@@ -15,10 +15,11 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
 * Web Devlopment: HTML, CSS<br>
 * Software & Utilities: VS Code, Anaconda, Jupyter, Basics of MS Office<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itsanuragkumarjha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsanuragkumarjha&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuragkumarjha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itsanuragkumarjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&border_radius=10)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=itsanuragkumarjha&theme=radical&hide_border=false&border_radius=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuragkumarjha&theme=radical&hide_border=false&include_all_commits=true&border_radius=10&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsanuragkumarjha&icon=0&color=0)](https://visitcount.itsvg.in)
