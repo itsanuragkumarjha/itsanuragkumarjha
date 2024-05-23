@@ -6,7 +6,7 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
 🔭 I’m working on some personal projects right now.<br>👯 I’d like to work with others on cool machine learning projects.<br>🤝 I’m looking for help to find an internship.<br>🌱 I’m currently learning more about integrating deep learning with LLMs.<br>💬 Ask me about: Artificial Intelligence, Data Science & Machine Learning.<br>⚡ Fun fact: AI revolution has started and we are not even prepared for it fully!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anurag_10jha) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykumarjha604@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anurag_10jha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/https://www.linkedin.com/in/anurag-kumar-jha-79003b30b)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykumarjha604@gmail.com)
 
  # 💻 Technical SKills:
 * Programming Language: Python<br>
