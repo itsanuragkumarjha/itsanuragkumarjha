@@ -10,7 +10,7 @@ I'm currently a junior at Guru Gobind Singh Indraprastha University in New Delhi
 
  # 💻 Technical SKills:
 * Programming Language: Python<br>
-* Machine Learning Skills: Neural Networks, APIs, Deep Learning, CNN, LLM, Langchain<br>
+* Machine Learning Skills: Neural Networks, APIs, Deep Learning, Computer Vision, CNN, LLM, Langchain<br>
 * Libraries: Numpy, Pandas, Seaborn, Scikit-Learn, TensorFlow, Keras, Pytorch, LLM, OPENAI, Gradio, Streamlit<br>
 * Web Devlopment: HTML, CSS<br>
 * Software & Utilities: VS Code, Anaconda, Jupyter, Basics of MS Office<br>
