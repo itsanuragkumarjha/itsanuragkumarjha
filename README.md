@@ -1,5 +1,5 @@
 <h1 align='center'>Hi, I'm Anurag 👋✨</h1>
-<h2 align='center'>AI Research Intern @ NorthStar Impact Solutions👨‍💻 | Ex-AI Developer @ PinkmoonAI | Final year Ungergrad in AI/DS-ML at GGSIPU</h2>
+<h4 align='center'>AI Research Intern @ NorthStar Impact Solutions👨‍💻 | Ex-AI Developer @ PinkmoonAI | Final year Ungergrad in AI/DS-ML at GGSIPU</h4>
 
 # 💫 About Me:
 I'm currently a final year student at Guru Gobind Singh Indraprastha University in New Delhi, working towards a Bachelor of Technology in Artificial Intelligence & Data Science. I have a strong passion for data science, Machine Learing, Generative AI LLMs, Python programming, and contributing to open source projects. I am always eager to learn and help in any way I can. <br>
