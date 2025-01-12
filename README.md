@@ -33,7 +33,7 @@ I'm currently a final year student at Guru Gobind Singh Indraprastha University 
 ## <img style="vertical-align: sub" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=22&lines=%F0%9F%92%96" alt="Typing SVG" /> Most Popular Repository:
 
 <div align="center"><a href="https://github.com/itsanuragkumarjha/Voice-chat-enabled-RAG-chatbot-with-real-time-internet-access">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsanuragkumarjha&repo=CaptureChronicles&cache_seconds=86400&theme=radical" alt="CaptureChronicles Repository" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsanuragkumarjha&repo=Voice-chat-enabled-RAG-chatbot-with-real-time-internet-access&cache_seconds=86400&theme=radical" alt="CaptureChronicles Repository" />
 </a></div>
 
 ### ✍️ Random Dev Quote
