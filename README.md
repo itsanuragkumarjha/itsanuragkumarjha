@@ -4,7 +4,7 @@
 <h4 align='center'>Junior AI/ML Engineer @ NorthStar Impact Solutions👨‍💻 | Ex-AI Developer @ PinkmoonAI | BTech Ungergrad'25 in AI/DS-ML at GGSIPU</h4>
 
 # 💫 About Me:
-I'm currently a final year student at Guru Gobind Singh Indraprastha University in New Delhi, working towards a Bachelor of Technology in Artificial Intelligence & Data Science. I have a strong passion for data science, Machine Learing, Generative AI LLMs, Python programming, and contributing to open source projects. I am always eager to learn and help in any way I can. <br>
+I'm BTech Ungergrad'25 in AI/DS-ML Guru Gobind Singh Indraprastha University in New Delhi, towards a Bachelor of Technology in Artificial Intelligence & Data Science. I have a strong passion for data science, Machine Learing, Generative AI LLMs, Python programming, and contributing to open source projects. I am always eager to learn and help in any way I can. <br>
 <br>
 🔭 I’m working on some personal projects right now.<br>👯 I’d like to work with others on cool machine learning projects.<br>🤝 I’m looking for help to find an internship.<br>🌱 I’m currently learning more about integrating deep learning with LLMs.<br>💬 Ask me about: Artificial Intelligence, Data Science & Machine Learning.<br>⚡ Fun fact: AI revolution has started and we are not even prepared for it fully!
 
